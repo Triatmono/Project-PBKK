@@ -10,7 +10,8 @@
 ## Laravel CRUD with Eloquent Relationships and Filament Integration
 This project demonstrates how to create a CRUD (Create, Read, Update, Delete) application using Laravel's Eloquent relationships and Filament's admin panel features. The application manages two entities: departments `Jurusan` and students `Mahasiswa`, showcasing a One-to-Many relationship.
 
-![Screenshot 2024-10-14 214020](https://github.com/user-attachments/assets/5b954197-953b-4e47-b266-fb917a9f2234)
+![Screenshot 2024-10-14 213650](https://github.com/user-attachments/assets/3b9076a0-651e-46fa-9736-304e62e1e7be)
+
 
 ![Screenshot 2024-10-14 214020](https://github.com/user-attachments/assets/2ae0c452-b78f-4408-a80d-f305c1229b6b)
 
