@@ -12,7 +12,7 @@ We named this project as SIMPELDA (Sistem Pengelolaan Data) which has the purpos
 
 ![Screenshot 2024-10-16 051006](https://github.com/user-attachments/assets/47f2109e-5818-4475-8395-57ca1d113150)
 
-![image](https://github.com/user-attachments/assets/92c70983-3f61-4081-995e-d7b3c70c5194)
+![Screenshot 2024-10-16 051159](https://github.com/user-attachments/assets/ee5208a4-747a-4d45-a4c4-2e604888961e)
 
 ![Screenshot 2024-10-16 051221](https://github.com/user-attachments/assets/48d9d984-b977-435b-b617-3de8b4fa54c2)
 
