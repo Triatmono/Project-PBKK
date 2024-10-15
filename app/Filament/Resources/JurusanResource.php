@@ -19,6 +19,17 @@ class JurusanResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
 
+    public static function getPluralLabel(): string
+    {
+        return 'Majors';
+    }
+
+    // Set the singular label to "Major"
+    public static function getLabel(): string
+    {
+        return 'Major';
+    }
+    
     public static function form(Form $form): Form
     {
         return $form

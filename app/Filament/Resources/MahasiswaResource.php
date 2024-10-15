@@ -19,6 +19,17 @@ class MahasiswaResource extends Resource
 
     protected static ?string $navigationIcon = 'heroicon-o-rectangle-stack';
 
+    public static function getPluralLabel(): string
+    {
+        return 'Students';
+    }
+
+    // Set the singular label to "Major"
+    public static function getLabel(): string
+    {
+        return 'Students';
+    }
+    
     public static function form(Form $form): Form
     {
         return $form
