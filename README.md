@@ -8,12 +8,13 @@
 
 
 ## Laravel CRUD with Eloquent Relationships and Filament Integration
-This project demonstrates how to create a CRUD (Create, Read, Update, Delete) application using Laravel's Eloquent relationships and Filament's admin panel features. The application manages two entities: departments `Jurusan` and students `Mahasiswa`, showcasing a One-to-Many relationship.
+We named this project as SIMPELDA (Sistem Pengelolaan Data) which has the purpose of making data management easier. This project demonstrates how to create a CRUD (Create, Read, Update, Delete) application using Laravel's Eloquent relationships and Filament's admin panel features. The application manages two entities: departments `Jurusan` and students `Mahasiswa`, showcasing a One-to-Many relationship.
 
-![Screenshot 2024-10-14 213650](https://github.com/user-attachments/assets/3b9076a0-651e-46fa-9736-304e62e1e7be)
+![image](https://github.com/user-attachments/assets/27b05e9b-c1c0-4ec9-b89b-f158adfc9615)
 
+![image](https://github.com/user-attachments/assets/92c70983-3f61-4081-995e-d7b3c70c5194)
 
-![Screenshot 2024-10-14 214020](https://github.com/user-attachments/assets/2ae0c452-b78f-4408-a80d-f305c1229b6b)
+![image](https://github.com/user-attachments/assets/c0435cb6-3cfd-4625-bf25-6d9343f06b06)
 
 ### Key Features
 - Eloquent Relationships
