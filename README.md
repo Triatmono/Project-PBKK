@@ -46,3 +46,7 @@ We named this project as SIMPELDA (Sistem Pengelolaan Data) which has the purpos
     - Admin Interface: Leverages Filament to create an admin interface with minimal code, letting the framework handle the UI and CRUD logic automatically.
  
 By implementing a One-to-Many relationship, data validation, and Filament's built-in functionalities like search, sorting, and filtering, this project should help on managing databases of students in each department.
+
+Here is the youtube link for our presentation regarding the CRUD application :
+[Here](https://www.youtube.com/watch?v=XrkxgfE2moc)
+
